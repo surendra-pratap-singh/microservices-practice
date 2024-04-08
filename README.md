@@ -11,4 +11,4 @@ To start the project
 1. checkout the project
 2. Start the services in the order mentioned above. 
 
-Step TODO: Demonstrate steps to monitor logs using ELK stack 
+//TODO: Demonstrate steps to monitor logs using ELK stack 
