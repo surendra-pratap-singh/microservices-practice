@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8083
+logging:
+  file:
+    name: C:/Users/suren/Documents/Microservices/microservices.log
