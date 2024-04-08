@@ -8,7 +8,7 @@ There are 5 services in this project
 5. Payment Service
 
 To start the project
-Step 1. checkout the project
-Step 2. Start the services in the order mentioned above. 
+1. checkout the project
+2. Start the services in the order mentioned above. 
 
-TODO: Demonstrate steps to monitor logs using ELK stack 
+Step TODO: Demonstrate steps to monitor logs using ELK stack 
